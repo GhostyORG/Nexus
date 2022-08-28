@@ -1,5 +1,5 @@
 <h1 align="center">
-  Nexus
+  Nexus - The code/text editor of the future
 </h1>
 
 <p align="center">
